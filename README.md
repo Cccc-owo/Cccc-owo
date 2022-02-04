@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Onedrive Index:[Here](https://cccc-drive.vercel.app)
+
+My Blog:[Here](https://cccc-blog.vercel.app).To know more about me, you can visit my blog.
