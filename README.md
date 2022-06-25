@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Onedrive Index:[Here](https://cccc-drive.vercel.app)
-
-My Blog:[Here](https://cccc-blog.vercel.app).To know more about me, you can visit my blog.
+- 📚 I'm a senior high school student.
+- 🌱 I'm currently learning C.
+- 📫 How to reach me: You can visit [my blog](https://cccc-blog.vercel.app).
+- 😄 I love playing [Minecraft](https://www.minecraft.net/) & [Europa Universalis Ⅳ](https://www.paradoxinteractive.com/games/europa-universalis-iv/about)
+- 
