@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning C.
 - 📫 How to reach me: You can visit [my blog](https://cccc-blog.vercel.app).
 - 😄 I love playing [Minecraft](https://www.minecraft.net/) & [Europa Universalis Ⅳ](https://www.paradoxinteractive.com/games/europa-universalis-iv/about)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Cccc-owo)](https://github.com/anuraghazra/github-readme-stats)
