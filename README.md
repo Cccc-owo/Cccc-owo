@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-- You can just call me CC (*simply pronounce like /siː/*).
+- You can just call me CC.
 
 ## 💻 Working environment
 
