@@ -7,17 +7,17 @@
 ## 💻 Working environment
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11/)
-[![Android 13](https://img.shields.io/badge/Android%2013%20(LineageOS)-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://lineageos.org/)
+[![Android 14](https://img.shields.io/badge/Android%2014%20(ColorOS)-0265fe?style=flat-square&logo=android&logoColor=ffffff)](https://www.coloros.com/)
+[![Android 14](https://img.shields.io/badge/Android%2014%20(LineageOS)-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://lineageos.org/)
 
 ## 📱 Devices in use
 
+[![Oneplus 12R](https://img.shields.io/badge/Oneplus%2012R-dd4814?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
 [![Oneplus 6](https://img.shields.io/badge/Oneplus%206-dd4814?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
 
 ## 📫 Ways to reach me
 
-- [Telegram](https://t.me/is_cccc/)
-- [Tencent QQ](https://qm.qq.com/cgi-bin/qm/qr?k=oJ0W3zcnXeU8jpJTUeaogXj1vX_u50Wd/)
-- [E-mail](mailto:4hhhhfor@gmail.com)
+- [E-mail](mailto:iscccc@duck.com)
 
 <!--
 **Cccc-owo/Cccc-owo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
