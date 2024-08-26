@@ -17,7 +17,7 @@
 
 ## 📫 Ways to reach me
 
-- [E-mail](mailto:iscccc@duck.com)
+- [E-mail](mailto:me@iscccc.eu.org)
 
 <!--
 **Cccc-owo/Cccc-owo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
