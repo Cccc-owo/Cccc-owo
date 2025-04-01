@@ -7,7 +7,7 @@
 ## 💻 Working environment
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11/)
-[![Android 14](https://img.shields.io/badge/Android%2014%20(ColorOS)-0265fe?style=flat-square&logo=android&logoColor=ffffff)](https://www.coloros.com/)
+[![Android 15](https://img.shields.io/badge/Android%2015%20(ColorOS)-0265fe?style=flat-square&logo=android&logoColor=ffffff)](https://www.coloros.com/)
 [![Android 14](https://img.shields.io/badge/Android%2014%20(LineageOS)-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://lineageos.org/)
 
 ## 📱 Devices in use
